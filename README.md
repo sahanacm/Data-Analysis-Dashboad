@@ -13,7 +13,10 @@ YTD Products Sold: Analyze the total number of products sold throughout the year
 YTD Reviews: Keep tabs on year-to-date product reviews to assess customer feedback and satisfaction.
 
 
-Charts Requirement
+
+
+
+ Charts Requirement
 
 YTD Sales by Month (Line Chart): Visualize sales trends over time on a monthly basis to identify seasonal patterns and growth trends.
 
@@ -24,6 +27,9 @@ Sales by Product Category (Text Heat Map): Utilize a text/heat map visualization
 Top 5 Products by YTD Sales (Bar Chart): Highlight the top-performing products based on year-to-date sales to focus on key revenue generators.
 
 Top 5 Products by YTD Reviews (Bar Chart): Identify the top-rated products by year-to-date reviews to understand customer preferences.
+
+
+
 
 
 Functionalities You Will Learn
