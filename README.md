@@ -1,4 +1,4 @@
-# Data-Analysis-Dashboad
+Data-Analysis-Dashboad
 
 Project 1: Amazon Sales Analysis
 
@@ -78,6 +78,8 @@ Formatting visuals
 Creating functions
 
 Navigations
+
+ DashBoard:
 
 
 Description:
